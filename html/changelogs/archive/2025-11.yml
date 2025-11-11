@@ -205,3 +205,6 @@
   - bugfix: Makes volume pumps and vent scrubbers work with the proper do_after
   - bugfix: Fireaxe no longer can be used as a pair of bleeders to stop bleeding.
   - bugfix: Fireaxe can now properly be used to amputate limbs.
+2025-11-11:
+  Guti:
+  - bugfix: Fixes sparks recursively teleporting through shadekin portals
